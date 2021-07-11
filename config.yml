@@ -1,0 +1,24 @@
+# Site Info
+title: ""
+tagline: ""
+description: ""
+baseurl: ""
+url: https://tenlifoxx.github.io
+logo: ""
+
+sass:
+  style: compressed
+  sass_dir: _scss
+
+version: 1.0.0
+
+# About/contact
+author:
+  name: Minki Hong
+  description: Minki Hong
+  contact:
+    github:    https://github.com/tenlifoxx
+    email:    mailto:tenlifoxx@gmail.com
+
+google_analytics:
+  ua: 'UA-134234881-1'
